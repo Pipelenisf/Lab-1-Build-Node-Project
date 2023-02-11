@@ -1,0 +1,14 @@
+{
+  "name": "lab-1",
+  "version": "1.0.0",
+  "description": "First lab",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Juan Felipe Lenis",
+  "license": "ISC",
+  "dependencies": {
+    "to-words": "^3.4.0"
+  }
+}
