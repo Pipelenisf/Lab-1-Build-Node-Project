@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "to-words": "^3.4.0"
+  },
+  "devDependencies": {
+    "upper-case-first": "^2.0.2"
   }
 }
